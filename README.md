@@ -100,5 +100,6 @@ Contributions are welcome!
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullahi-buba-birma)  
 
 ---
-## License
-Public Domain. No copy write protection. 
+## 💡 Why This Project Matters
+This clone demonstrates my ability to build production‑ready full‑stack applications using modern tools. It reflects my understanding of scalable architecture, secure authentication, and responsive UI design — all critical for real‑world software engineering roles.
+
