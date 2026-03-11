@@ -52,8 +52,31 @@ npm start
 ---
 
 ## 📸 Demo / Screenshots
-*(Insert screenshots of the UI here — e.g., homepage, property listing, booking flow)*  
-[Live Demo Link](#) *(if available)*
+
+### 🏠 Homepage
+![Homepage Screenshot](https://copilot.microsoft.com/th/id/BCO.d2acb7ec-a7ca-4eaa-9061-052ef87a3cc4.png)
+
+*Search bar with filters for Location, Check‑In/Out, and Guests. Featured listings include Beachfront Villa, Mountain Cabin, and City Apartment.*
+
+---
+
+### 🏢 Property Listing
+![Property Listing Screenshot](https://copilot.microsoft.com/th/id/BCO.d2acb7ec-a7ca-4eaa-9061-052ef87a3cc4.png)
+
+*Detailed listing page with large property photo, booking summary panel, amenities, and user reviews.*
+
+---
+
+### ✅ Booking Flow
+![Booking Flow Screenshot](https://copilot.microsoft.com/th/id/BCO.d2acb7ec-a7ca-4eaa-9061-052ef87a3cc4.png)
+
+*Booking confirmation page showing stay details, total cost, and confirmation message with green checkmark.*
+
+---
+
+### 🔗 Live Demo
+[View Here](#) *(replace with your hosted demo link if available)*
+
 
 ---
 
@@ -77,12 +100,5 @@ Contributions are welcome!
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullahi-buba-birma)  
 
 ---
-
-## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Abdullahi Buba [Github](https://github.com/Abbk1109) / https://www.linkedin.com/in/abdullahi-buba-6a6409206/
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
